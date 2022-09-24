@@ -25,19 +25,3 @@ Pre-requisites
 - Complete Project 5: Forage
 - Complete Unit 6 of Android Basics in Kotlin
 
-Getting Started
----------------
-
-1. Download the starter code
-2. Open the project in Android Studio
-3. Done!
-
-
-Tasks
----------------
-
-Tips
-----
-
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
